@@ -2,6 +2,6 @@
 
 Its exactly as it says on the tin.
 
-#Compilation
+# Compilation
 g++ main.cpp complex.cpp -o main
 To run program: ./main
